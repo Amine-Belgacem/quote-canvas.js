@@ -1,6 +1,6 @@
 /**
  * QuoteCanvas: Touch supporting canvas built for social media quotes
- * @copyright Ameen Belkacem 2015
+ * @copyright Amine Belkacem 2015
  * @version 0.2
  * @license Apache-2.0
  * @todo The library is currently basic, further developement is planned.
