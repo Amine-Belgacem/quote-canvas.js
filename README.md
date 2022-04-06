@@ -55,14 +55,14 @@ Explore the example in `./demo`
 
 ## Types
 
-**Element Object**
+**Element**
 
     element: { id: "Id", zindex: "Nat", resource: "Any", width: "Nat", height: "Nat", x: "PosX",y: "PosY", style: "style", type: "Element", fixed: "Bool" }
 
-**Style  Object**
+**Style**
 
     style: { font: "Str", color: "Color", fontSize: "Nat", fontType: "Str", lineHeight: "Nat", textAlign: "Align", shadow: "shadow", outline: "outline" }
     
-**Shadow  Object**
+**Shadow**
 
     shadow: { x: "PosX", y: "PosY", color: "Color", blur: "Nat"}
