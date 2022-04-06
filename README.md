@@ -21,3 +21,27 @@ Vanilla .js library for generating social media quote posts. Quote-canvas is a d
        Erasees the element object specified by elementId then redraws.   
   - `redraw()`
        Redraws all elements of the canvas.  
+  - `getActiveElement()`
+       Returns the element under focus.
+  - `getActiveElementId()`
+       Returns the id if the element under focus.       
+  - `getAllElements()`
+       Returns all drawn elements. 
+  - `isElement(element)`
+       Type check for element object. 
+  - `isStyle(style)`
+       Type check for style object.    
+  - `isDimension(dimension)`
+       Type check for dimension object.
+  - `isColor(color)`
+       Type check for color object.     
+  - `isSize(size)`
+       Type check for size object.
+  - `isPath(path)`
+       Checks if path is a valid image path.
+  - `isPosition(position)`
+       Type check for position object.
+  - `isPosition(position)`
+       Type check for position object.
+  - `isWidth(width)`
+       Checks if width is not null, defined and natural.  
