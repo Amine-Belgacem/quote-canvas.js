@@ -5,7 +5,7 @@ Vanilla .js library for generating social media quote posts. Quote-canvas is a d
 Clone repository.
 
     git clone https://github.com/Amine-Belkacem/Quote-canvas.js.git
-Explore the demo in ./demo
+Explore the example in `./demo`
 
 ## Methods Reference
 
@@ -50,4 +50,5 @@ Explore the demo in ./demo
   - `isPosition(position)`
        Type check for position object.
   - `isWidth(width)`
-       Checks if width is not null, defined and natural.  
+       Checks if width is not null, defined and natural.
+  - More methods coming soon...
