@@ -1,7 +1,7 @@
 # Quote-canvas.js
 Vanilla .js library for generating social media quote posts. Quote-canvas is a drawing library that supports touch events.
 
-## Main Methods Reference
+## Methods Reference
 
  - `drawBG(color)`
        Fills the background with a color of type color.
