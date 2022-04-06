@@ -51,4 +51,18 @@ Explore the example in `./demo`
        Type check for position object.
   - `isWidth(width)`
        Checks if width is not null, defined and natural.
-  - More method descriptions coming soon...
+  - More reference coming soon...
+
+## Types
+
+**Element Object**
+
+    element: { id: "Id", zindex: "Nat", resource: "Any", width: "Nat", height: "Nat", x: "PosX",y: "PosY", style: "style", type: "Element", fixed: "Bool" }
+
+**Style  Object**
+
+    style: { font: "Str", color: "Color", fontSize: "Nat", fontType: "Str", lineHeight: "Nat", textAlign: "Align", shadow: "shadow", outline: "outline" }
+    
+**Shadow  Object**
+
+    shadow: { x: "PosX", y: "PosY", color: "Color", blur: "Nat"}
