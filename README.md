@@ -38,9 +38,9 @@ Explore the example in `./demo`
   - `isStyle(style)`
        Type check for style object.    
   - `isDimension(dimension)`
-       Type check for dimension object.
+       Check if dimension is integer and > 0
   - `isColor(color)`
-       Type check for color object.     
+       Check if color is in hex format (e.g. #ffffff)
   - `isSize(size)`
        Type check for size object.
   - `isPath(path)`
