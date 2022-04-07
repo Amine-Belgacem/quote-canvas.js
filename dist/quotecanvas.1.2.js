@@ -745,10 +745,6 @@ QuoteCanvas.prototype = {
         return this._elementsCount;
     },
 
-    getActiveElement: function () {
-        return this._element;
-    },
-
     getAllElements: function () {
         return this._elements;
     },
