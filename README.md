@@ -52,17 +52,3 @@ Explore the example in `./demo`
   - `isWidth(width)`
        Checks if width is not null, defined and natural.
   - More reference coming soon...
-
-## Types
-
-**Element**
-
-    element: { id: "Id", zindex: "Nat", resource: "Any", width: "Nat", height: "Nat", x: "PosX",y: "PosY", style: "style", type: "Element", fixed: "Bool" }
-
-**Style**
-
-    style: { font: "Str", color: "Color", fontSize: "Nat", fontType: "Str", lineHeight: "Nat", textAlign: "Align", shadow: "shadow", outline: "outline" }
-    
-**Shadow**
-
-    shadow: { x: "PosX", y: "PosY", color: "Color", blur: "Nat"}
