@@ -4,7 +4,7 @@ Quote Canvas is a lightweight drawing library built with vanilla JavaScript for 
 ## Get started
 Clone repository.
 
-    git clone https://github.com/Amine-Belkacem/Quote-canvas.js.git
+    git clone https://github.com/Amine-Belgacem/quote-canvas.js.git
 Explore the example in `./demo`
 
 ## Methods Reference
